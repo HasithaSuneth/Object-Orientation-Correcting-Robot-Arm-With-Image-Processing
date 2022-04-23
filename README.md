@@ -1,4 +1,4 @@
-# Objects Orientaton Correcting Robot Arm with Image Processing (OpenCV)
+# Objects Orientation Correcting Robot Arm with Image Processing (OpenCV)
 
 This is the final year project of the Higher National Diploma in Electrical & Electronic Engineering (ICBT Campus). This project mainly focused on to correct orientation of the ice cream cups before moving to the manufacturing details label printing machine. 
 
